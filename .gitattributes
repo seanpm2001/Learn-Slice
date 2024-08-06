@@ -32,6 +32,13 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Slice source file
+*.ice linguist-detectable=true
+*.ice linguist-documentation=false
+*.ice linguist-language=Slice
+*.ICE linguist-detectable=true
+*.ICE linguist-documentation=false
+*.ICE linguist-language=Slice
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +168,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2024, Monday, August 5th at 10:34 pm PST)
+# Line count (including blank lines and compiler line): 181
+
 # End of script
